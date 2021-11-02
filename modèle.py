@@ -252,8 +252,8 @@ def compute_district(x, y):
 
 
 '''
-Fonctions used to display and plot the curves
-(you should not have to change them)
+Functions used to display and plot the curves
+
 '''
 
 def display_map(people, ax = None):
@@ -319,7 +319,7 @@ def next_loop_event(t):
 
 
 '''
-Function that crate the initial population
+Function that creates the initial population
 '''
 def create_data():
     data = []
